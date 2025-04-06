@@ -1,0 +1,51 @@
+Scenario-Based Database Questions for DevOps Engineers
+
+1. A database migration failed mid-way during deployment. How would you recover and ensure data integrity?
+
+2. You're asked to implement zero-downtime deployments for a critical database. What approach would you take?
+
+3. The database size has grown exponentially over a month. How would you investigate and address this?
+
+4. You receive alerts for high replication lag. How do you troubleshoot and fix it?
+
+5. A critical production query is slowing down during peak hours. What steps do you take to diagnose the issue?
+
+6. You're tasked with automating database backups and verifying their integrity. How do you approach this?
+
+7. During a rollback, you realize some schema changes cannot be reversed easily. How do you manage this?
+
+8. A microservice is causing excessive database load. How do you isolate and resolve the issue?
+
+9. The team needs to apply schema changes across multiple environments. How do you ensure consistency?
+
+10. A database connection pool is maxed out in production. What do you check and how do you resolve it?
+
+11. You need to safely archive 2 years of transactional data without downtime. How do you plan and execute it?
+
+12. Database monitoring shows a sudden spike in IOPS. What are your next steps?
+
+13. During a deployment, read replicas fall behind. How do you balance performance and consistency?
+
+14. A deployment fails due to a migration script timing out. How do you handle and optimize this?
+
+15. You’re asked to implement high availability for a legacy database. What architecture would you propose?
+
+16. You need to test a new DB engine version with existing workloads. What’s your strategy?
+
+17. Developers want production-like data in staging. How do you provide this while ensuring data privacy?
+
+18. An unexpected server reboot caused database corruption. What’s your recovery plan?
+
+19. A long-running analytics query locks production tables. How do you prevent this in the future?
+
+20. Your database is hosted in Kubernetes and occasionally fails. How do you manage DB reliability in K8s?
+
+21. A table scan is slowing down an application. What indexing strategy would you recommend?
+
+22. You need to rotate DB credentials across apps without downtime. How would you do it?
+
+23. A read-heavy app is experiencing latency spikes. How would you optimize the database design?
+
+24. You are integrating a new monitoring tool with your database. What key metrics would you track?
+
+25. A query runs fine on staging but times out in production. How do you debug environment-specific differences?
